@@ -1,0 +1,12 @@
+
+--- Doppler and PER statistics for this run (FRS) ---
+Raw Doppler (kHz): min 0.00, max 38.17, mean 25.09, std 10.97
+Residual Doppler (kHz): min 0.0001, max 1.8777, mean 0.6449, std 0.4902
+PER: min 0.00, max 1.00, mean 0.66, std 0.37
+FRS @ 30/min, Nslots=8: 75.94s util=0.9997 succ=0.6875
+
+--- Doppler and PER statistics for this run (DAARS) ---
+Raw Doppler (kHz): min 0.00, max 38.21, mean 26.02, std 10.51
+Residual Doppler (kHz): min 0.0000, max 1.9234, mean 0.5415, std 0.4492
+PER: min 0.00, max 1.00, mean 0.66, std 0.37
+DAARS @ 30/min, Nslots=8: 134.17s util=0.9776 succ=0.6150
